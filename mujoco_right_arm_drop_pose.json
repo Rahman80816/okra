@@ -1,0 +1,57 @@
+{
+  "ik": {
+    "left_error_m": 0.0027294442305496303,
+    "right_elbow_error_m": 0.07622854362057424,
+    "right_error_m": 0.003305742630983339
+  },
+  "left_basket_pose": {
+    "left_elbow_joint": 0.6306112700710292,
+    "left_shoulder_pitch_joint": -0.07143135177185089,
+    "left_shoulder_roll_joint": -0.021147655847187207,
+    "left_shoulder_yaw_joint": -0.11241583328361911,
+    "left_wrist_pitch_joint": 0.10466517402819055,
+    "left_wrist_roll_joint": 0.06334974442903211,
+    "left_wrist_yaw_joint": -0.17258803413076987
+  },
+  "mujoco_right_arm_drop_pose": {
+    "right_elbow_joint": 0.43081175751975276,
+    "right_shoulder_pitch_joint": -0.65,
+    "right_shoulder_roll_joint": -0.2238698058422028,
+    "right_shoulder_yaw_joint": 0.5439266967496504,
+    "right_wrist_pitch_joint": -0.5410474468689298,
+    "right_wrist_roll_joint": -0.3715994331351218,
+    "right_wrist_yaw_joint": 0.5097543320986277
+  },
+  "positions": {
+    "left_hand_xyz": [
+      0.2981107589584859,
+      0.0805433516280882,
+      0.7248935160688501
+    ],
+    "left_target_xyz": [
+      0.3,
+      0.08,
+      0.7230000000000001
+    ],
+    "right_elbow_xyz": [
+      0.1300682064622984,
+      -0.1661054117124545,
+      0.9488976499769153
+    ],
+    "right_target_xyz": [
+      0.2981107589584859,
+      0.0805433516280882,
+      0.9648935160688501
+    ]
+  },
+  "right_arm_drop_pose": {
+    "right_elbow": 0.43081175751975276,
+    "right_shoulder_pitch": -0.65,
+    "right_shoulder_roll": -0.2238698058422028,
+    "right_shoulder_yaw": 0.5439266967496504,
+    "right_wrist_pitch": -0.5410474468689298,
+    "right_wrist_roll": -0.3715994331351218,
+    "right_wrist_yaw": 0.5097543320986277
+  },
+  "source_xml": "/home/techshare/drl_kit/mujoco_ws/ts_mujoco-main/unitree_robots/g1/scene_29dof_with_hand.xml"
+}
